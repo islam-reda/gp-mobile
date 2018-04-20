@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "209641468953",
+    "firebase_url": "https://awesomec-cb488.firebaseio.com",
+    "project_id": "awesomec-cb488",
+    "storage_bucket": "awesomec-cb488.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209641468953:android:62f6daca397ddaa4",
+        "android_client_info": {
+          "package_name": "com.awesomec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209641468953-1i0bqsjh3olb5f8i5hukbfout59kss71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAohm5r1tkWVgWKZEnxv18lvcrthDOddu4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
