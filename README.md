@@ -1,9 +1,11 @@
 # gp-mobile
+
 Recommendation system for mall shops
-Techs
 Frontend
+
       React native
 Backend
+
       Use Api with php .. (Slim Framework) kindly check http://www.slimframework.com/
       
 
