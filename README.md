@@ -1,5 +1,11 @@
 # gp-mobile
 Recommendation system for mall shops
+Techs
+Frontend
+      React native
+Backend
+      Use Api with php .. (Slim Framework) kindly check http://www.slimframework.com/
+      
 
 ![2](https://user-images.githubusercontent.com/38462856/65525979-a4358900-def0-11e9-868d-66642f003979.png)
 
@@ -11,4 +17,4 @@ Recommendation system for mall shops
 
 ![5](https://user-images.githubusercontent.com/38462856/65526742-dc899700-def1-11e9-82f4-2115f615c11d.png)
 
-Use Api with php .. (Slim Framework) kindly check http://www.slimframework.com/
+
